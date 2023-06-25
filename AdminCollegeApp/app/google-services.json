@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6809525267",
+    "firebase_url": "https://admin-f53d1-default-rtdb.firebaseio.com",
+    "project_id": "admin-f53d1",
+    "storage_bucket": "admin-f53d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6809525267:android:dba868b0a8dd3c7e05b3e6",
+        "android_client_info": {
+          "package_name": "com.example.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6809525267-6ldrt90smi4jkgeodsj2gaepj9ml7rn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ0IdNZryD2jT5tKmgvcmYMmHvv8T0gQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6809525267-6ldrt90smi4jkgeodsj2gaepj9ml7rn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
