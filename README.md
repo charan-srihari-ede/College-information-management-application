@@ -38,9 +38,9 @@ Create firebase project [here](https://console.firebase.google.com/). Paste the 
 ## contributors
 
 - [@Praneeth Kota](https://www.github.com/praneethkota)
-  ui/ux design (XML)
+ --  ui/ux design (XML)
 - [@Lokesh Vinnakota](https://www.github.com/Loki0510)
-  Provides Functionalities to views (java)
-- [@Charan Sri Hari Ede](https://www.github.com/charan-srihari-ede)
+  -- Provides Functionalities to views (java)
+- [@Charan Sri Hari Ede](https://www.github.com/charan-srihari-ede) --firebase autentication(backend)
   
 
