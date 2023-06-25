@@ -34,3 +34,9 @@ Create firebase project [here](https://console.firebase.google.com/). Paste the 
 ![ss22](https://github.com/charan-srihari-ede/Quizzer/blob/main/screenshots/ss22.png)
 
 
+
+## contributors
+
+- [@Lokesh Vinnakota](https://www.github.com/Loki0510)
+
+- [@Praneeth Kota](https://www.github.com/praneethkota)
